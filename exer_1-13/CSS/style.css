@@ -1,0 +1,31 @@
+.notas{
+    font-size: 12px;
+    font-family: Tahoma;
+    text-align: center;
+}
+
+.cabeçalho{
+    color: blue;
+    font-style: italic;
+}
+
+.nomes{
+    font-style: italic;
+    background-color: pink;
+}
+
+.valores{
+    background-color: yellow;
+    text-align: center;
+    color: green;
+}
+
+.final{
+    background-color: red;
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+}
+caption{
+    font-size: x-small;
+}
